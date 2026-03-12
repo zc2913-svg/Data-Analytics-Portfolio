@@ -1,10 +1,7 @@
 # Retail Sales Dashboard
 
 ## Overview
-This project analyzes retail sales data to identify trends in revenue, product performance, and regional sales patterns.
-
-## Objective
-The goal of this project is to explore how sales vary across categories, time periods, and regions, and to present these findings in a clear, business-focused way.
+This project analyzes retail sales data to identify trends in revenue, product performance, and regional sales patterns. The goal of this project is to explore how sales vary across categories, time periods, and regions, and to present these findings in a clear, business-focused way.
 
 ## Dataset
 The dataset contains 1,000 retail transactions from 2023 to early 2024, including customer demographics, product category, quantity purchased, price per unit, and total amount.
