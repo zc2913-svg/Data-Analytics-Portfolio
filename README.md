@@ -1,92 +1,79 @@
-# Data Systems, Consumer Insight & Digital Strategy
+# Data Systems, Consumer Insight & Digital Strategy *(In Progress)*
 
-A portfolio of data science projects focused on **analyzing real-world systems—consumer behavior, retail performance, and market dynamics—through a technical and interdisciplinary lens**.
+A developing portfolio of data science projects focused on **modeling real-world systems—consumer behavior, retail performance, and market dynamics**.
 
-This work sits at the intersection of:
+This work reflects an interdisciplinary approach combining:
 
-* **Data science & statistical modeling**
-* **Business + product decision-making**
-* **Consumer and cultural insight**
+* **Statistical modeling & data analysis**
+* **Business and product thinking**
+* **Consumer and market insight**
 
-The goal is simple: **build analytical tools and models that translate complex data into decisions.**
-
----
-
-## Projects
-
-### 1. Luxury Market Analysis
-
-Modeled demand patterns and category performance across luxury segments using structured datasets.
-Applied exploratory data analysis and trend detection to understand shifts in consumer demand.
-**Focus:** market dynamics, demand forecasting, brand positioning
+*This portfolio is actively being expanded with new projects, deeper modeling, and more production-ready tools.*
 
 ---
 
-### 2. Retail Sales Dashboard
+## Current Projects
 
-Built an interactive Tableau dashboard to analyze revenue trends, product performance, and customer activity.
-Designed for usability in a business context—supporting merchandising and operations decisions.
-**Focus:** KPI tracking, dashboard design, decision support systems
+### Luxury Market Analysis *(in progress)*
 
----
-
-### 3. Consumer Behavior Analysis
-
-Analyzed transaction-level data to identify patterns in purchasing frequency, basket composition, and timing.
-Used statistical methods to surface behavioral trends and anomalies.
-**Focus:** behavioral analytics, pattern recognition, applied statistics
+Exploring demand patterns, category performance, and positioning across luxury segments using structured datasets.
+Focus: trend analysis, market signals, and demand shifts
 
 ---
 
-### 4. Customer Segmentation (RFM + Clustering)
+### Retail Sales Dashboard *(in progress)*
 
-Implemented RFM analysis and unsupervised learning techniques to segment customers based on value and behavior.
-Generated actionable groupings for retention and targeting strategies.
-**Focus:** clustering, feature engineering, customer analytics
+Building an interactive dashboard to track revenue trends, product performance, and customer behavior.
+Focus: KPI design, data visualization, decision support
 
 ---
 
-### 5. Pricing Strategy Analysis
+### Consumer Behavior Analysis *(in progress)*
 
-Investigated pricing distributions across categories and products to identify inefficiencies and opportunities.
-Connected pricing structure to performance outcomes.
-**Focus:** pricing analytics, optimization thinking, business insight
+Analyzing transaction-level data to identify purchasing patterns and behavioral trends.
+Focus: frequency analysis, basket composition, behavioral insights
+
+---
+
+### Customer Segmentation *(in progress)*
+
+Implementing RFM analysis and clustering techniques to group customers based on value and engagement.
+Focus: segmentation, feature engineering, applied machine learning
+
+---
+
+### Pricing Strategy Analysis *(in progress)*
+
+Investigating pricing structures and their relationship to performance across categories.
+Focus: pricing patterns, optimization opportunities
 
 ---
 
 ## Technical Stack
 
-* **Languages:** Python (pandas, numpy, scikit-learn), SQL
-* **Data Analysis:** statistical modeling, EDA, clustering, regression
-* **Visualization:** Tableau, Excel
-* **Workflow:** AI-assisted development (Cursor, Claude Code), reproducible analysis
+* Python (pandas, numpy, scikit-learn)
+* SQL
+* Tableau / Excel
+* AI-assisted workflows (Cursor, Claude Code)
 
 ---
 
 ## Approach
 
-I focus on building work that is:
+This portfolio prioritizes:
 
-* **Technically grounded** → strong use of data structures, modeling, and analytical methods
-* **Decision-oriented** → outputs that can directly inform business or product strategy
-* **Interdisciplinary** → connecting quantitative analysis with real-world systems like markets, behavior, and design
+* **Strong technical foundations** → clean analysis, reproducible workflows, scalable thinking
+* **Real-world relevance** → projects grounded in business and product use cases
+* **Interdisciplinary perspective** → connecting data with behavior, markets, and decision-making
 
 ---
 
 ## About Me
 
-Hi! I'm Zayneb, a sophmore at Barnard College of Columbia University studying Data Science with experience across:
+Hi! I'm Zayneb, a student at Barnard College of Columbia University. I'm studying Data Science and building skills across **analytics, research, and creative production environments**.
 
-* **Analytical research and modeling**
-* **AI and ML Engineering**
-* **Creative production**
-* **Data-driven storytelling and visualization**
+I’m particularly interested in using data to understand:
 
-I’m interested in roles across:
-
-* Data Science / Analytics
-* Product & Strategy
-* Finance
-* Technology
-
----
+* how systems perform
+* how people behave
+* how decisions are made
